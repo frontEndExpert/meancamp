@@ -1,0 +1,31 @@
+{
+  "name": "meancamp",
+  "version": "1.0.0",
+  "description": "mean stack web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontEndExpert/meancamp.git"
+  },
+  "keywords": [
+    "node.js",
+    "mongo",
+    "mogoose",
+    "express"
+  ],
+  "author": "Aylon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontEndExpert/meancamp/issues"
+  },
+  "homepage": "https://github.com/frontEndExpert/meancamp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
+  }
+}
